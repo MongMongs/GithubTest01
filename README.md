@@ -82,7 +82,7 @@ public class BootSpringBootApplication {
 
 
 
-[link keyword]:[id]
+[link keyword] [id]
 
 [id]: URL "Optional Title here"
 
